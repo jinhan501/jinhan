@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <title>園區導覽</title>
+  <style>
+    body{font-family:sans-serif;margin:2rem;line-height:1.6;}
+    h1{color:#d2691e;}
+  </style>
+</head>
+<body>
+  <h1>富有甜柿 (Fuyu Persimmon)</h1>
+  <p>果實扁圓，橙紅色，肉質脆甜，Brix 15° 以上。</p>
+
+  <h2>DIY 體驗</h2>
+  <p>掃 QR 後可了解手作柿餅、柿染、冰淇淋體驗流程與費用。</p>
+
+  <p><a href="diy/icecream.html">➜  前往冰淇淋體驗說明</a></p>
+</body>
+</html>
